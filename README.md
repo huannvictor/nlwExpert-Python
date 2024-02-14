@@ -36,9 +36,9 @@ Suponha que você queira gerar um código de barras para o texto "meu-codigo-123
 3. a API retornará com o código de barras correspondente.
 
 ### Telas de Exemplo:
-![tela httpie]('https://github.com/huannvictor/nlwExpert-Python/blob/main/tela-httpie.png')
+![tela httpie]("https://raw.githubusercontent.com/huannvictor/nlwExpert-Python/main/tela-httpie.png")
 
-![código de barras gerado]('https://github.com/huannvictor/nlwExpert-Python/blob/main/meu-codigo-123.png')
+![código de barras gerado]("https://raw.githubusercontent.com/huannvictor/nlwExpert-Python/main/meu-codigo-123.png")
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue se encontrar algum problema ou para enviar um pull request com melhorias.
